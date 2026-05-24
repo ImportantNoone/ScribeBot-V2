@@ -76,9 +76,6 @@ python bot.py
 
 scribebot v2 is a word-based rpg where players engage in linguistic challenges to defeat enemies and gain power. create your character, complete word challenges, battle other players, and climb the leaderboard.
 
-## contributing
-
-feel free to fork and submit pull requests with improvements.
 
 ## license
 

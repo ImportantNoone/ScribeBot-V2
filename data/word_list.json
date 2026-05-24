@@ -1,0 +1,5 @@
+{
+  "easy": ["cat", "dog", "tree", "stone", "sword", "magic", "fire", "water", "wind", "earth"],
+  "medium": ["dragon", "wizard", "castle", "battle", "ancient", "kingdom", "treasure", "spell", "forest", "mountain"],
+  "hard": ["enchanted", "philosopher", "manuscript", "adventure", "legendary", "extraordinary", "mysterious", "magnificent", "dangerous", "prophecy"]
+}
